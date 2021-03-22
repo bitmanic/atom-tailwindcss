@@ -59,7 +59,7 @@ module.exports = {
           replacementPrefix: prefix,
           rightLabel: rightLabel,
           text: text,
-          type: 'tailwind'
+          type: 'property'
         };
 
         if (rightLabel.indexOf('color') >= 0) {
